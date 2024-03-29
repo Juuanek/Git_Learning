@@ -1,0 +1,1 @@
+Dzien 1 wykonywania conajmniej 1 commita zeby utrwalic działanie z gitem.
