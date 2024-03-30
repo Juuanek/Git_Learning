@@ -1,1 +1,3 @@
 Dzien 1 wykonywania conajmniej 1 commita zeby utrwalic działanie z gitem.
+
+Dzien 2 wykonywania conajmniej 1 commita zeby utrwalic działania z gitem w terminalu linuxa
