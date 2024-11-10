@@ -1,14 +1,23 @@
 HOW TO ENETER GIT BASH AND GET TO THE COMMIT AND PSH CORRECTLY
 
+cd .. 
+
 cd ..
-cd ..
+
 cd mnt
+
 cd d
+
 cd GitPostrgreSQL/ (EXAMPLE)
+
 git status
+
 git log --oneline
+
 git log
+
 git push
+
 git commit -m "A TITLE HERE OF COMMIT"
 
 
